@@ -1,0 +1,26 @@
+#the_rotation {
+    width: 248px;
+    margin: 0px;
+    height: 140px;
+    padding-top: 4px;
+}
+
+#the_rotation li {
+    width: 74px;
+    padding: 0px;
+    margin: 0px 4px 2px 0;
+    float:left;
+}
+
+#the_rotation li img {
+    float: left;
+    width: 74px;
+    height: 74px;
+    border: 1px solid #666;
+}
+
+.lfmr_error {
+    color: red;
+    font-size: 85%;
+    text-align: center;
+}
